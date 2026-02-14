@@ -1,1 +1,3 @@
-# ASK-PDF
+#CHAT CARD
+
+The Chat Card Chatbot is an intelligent conversational AI system developed to provide accurate and context-based responses to user queries. It is built using a Retrieval-Augmented Generation (RAG) architecture, where the chatbot retrieves relevant information from a provided PDF or knowledge base and then generates answers strictly based on that content. Technologies such as LangChain, Hugging Face embeddings, FAISS for vector storage, and a Large Language Model (LLM) are integrated to ensure semantic understanding and precise response generation. The chatbot is designed with a user-friendly interface using Gradio, allowing smooth interaction. It ensures that if the answer is not available in the given context, it responds responsibly with “I don’t know,” making the system reliable and trustworthy. This project demonstrates practical implementation of NLP, vector databases, and AI-driven conversational systems.
